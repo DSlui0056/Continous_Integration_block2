@@ -1,0 +1,22 @@
+{
+  "name": "continous_integration_block2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSlui0056/Continous_Integration_block2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DSlui0056/Continous_Integration_block2/issues"
+  },
+  "homepage": "https://github.com/DSlui0056/Continous_Integration_block2#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
